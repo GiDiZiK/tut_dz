@@ -4,7 +4,7 @@
       "id": 1,
       "section": "TV",
       "title": "43' Телевизор Xiaomi Mi TV A05, 8K Ultra HD, черный, СМАРТ ТВ, Android",
-      "price": 25990,
+      "price": 25990₽,
       "os": "Android 11.0",
       "color": "чёрный",
       "image": "mango.jpg",
@@ -16,7 +16,7 @@
       "id": 2,
       "section": "TV",
       "title": "43' Телевизор Samsung , Crystal UHD, 4K Ultra HD, черный, СМАРТ ТВ, Tizen OS",
-      "price": 152000,
+      "price": 152000₽,
       
       "os": "Tizen 7.0",
       
@@ -30,7 +30,7 @@
       "id": 3,
       "section": "TV",
       "title": "43' Телевизор Samsung UE43CU8000UXRU Crystal UHD 4K Ultra HD черный СМАРТ ТВ",
-      "price": 52990,
+      "price": 52990₽,
   
       "os": "Tizen 7.0",
     
@@ -44,7 +44,7 @@
       "id": 4,
       "section": "TV",
       "title": "43' Телевизор Hyundai H-LED43BU7003, 4K Ultra HD, черный, СМАРТ ТВ, YaOS",
-      "price": 29990,
+      "price": 29990₽,
       
       "os": "YaOS",
      
@@ -58,7 +58,7 @@
       "id": 5,
       "section": "TV",
       "title": "32' Телевизор SunWind SUN-LED32XB200, HD, черный",
-      "price": 8999,
+      "price": 8999₽,
       
       "os": "SunWind",
       
@@ -72,7 +72,7 @@
       "id": 6,
       "section": "phone",
       "title": "3Смартфон Huawei Mate X3 12/512Gb, ALT-L29, черный",
-      "price": 159450,
+      "price": 159450₽,
       
       "os": "Android",
      
@@ -86,7 +86,7 @@
       "id": 7,
       "section": "phone",
       "title": "Смартфон Xiaomi Poco M5s 12/256Gb, серый",
-      "price": 17990,
+      "price": 17990₽,
     
       "os": "Android",
       
@@ -100,7 +100,7 @@
       "id": 8,
       "section": "phone",
       "title": "Смартфон Huawei P60 Pro 12/512Gb, MNA-LX9, черный",
-      "price": 85990,
+      "price": 85990₽,
       
       "os": "Android",
       
